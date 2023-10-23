@@ -14,3 +14,4 @@ Things I learned and want to remember
 
 ### <a name="seo"></a> SEO
 - [Open Graph Articles](https://github.com/willfynch/til/blob/master/seo/open-graph.md)
+- [Meta Tags Articles](https://github.com/willfynch/til/blob/master/seo/meta-tags.md)
