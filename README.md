@@ -5,6 +5,7 @@ Things I learned and want to remember
 ## Catégories
 
 - [Networking](https://github.com/willfynch/til#networking)
+- [SEO](https://github.com/willfynch/til#seo)
 
 
 ### <a name="networking"></a>Networking
